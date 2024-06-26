@@ -1,1 +1,4 @@
 # KisilerUygulamasi
+Kullanılanlar ;
+Sqlite
+RxSwift
